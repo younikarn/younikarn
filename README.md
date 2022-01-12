@@ -5,6 +5,6 @@
 
 
 
--  I’m currently a student at IIIT Gwalior...
+-  I’m currently a sophomore at IIIT Gwalior
 - 
 -->
